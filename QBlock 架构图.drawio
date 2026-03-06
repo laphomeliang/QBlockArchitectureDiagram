@@ -26,7 +26,7 @@
           <mxGeometry height="60" width="120" x="450" y="650" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="110" width="160" x="90" y="170" as="geometry" />
+          <mxGeometry height="110" width="110" x="90" y="170" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 进程" vertex="1">
           <mxGeometry height="60" width="700" x="70" y="450" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry height="60" width="700" x="70" y="530" as="geometry" />
         </mxCell>
         <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="110" width="160" x="290" y="170" as="geometry" />
+          <mxGeometry height="110" width="110" x="220" y="170" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="30" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
+          <mxGeometry height="110" width="110" x="350" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
