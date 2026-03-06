@@ -17,7 +17,7 @@
           <mxGeometry height="120" width="620" x="110" y="610" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
-          <mxGeometry height="150" width="620" x="110" y="140" as="geometry" />
+          <mxGeometry height="150" width="400" x="110" y="140" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
           <mxGeometry height="60" width="120" x="272" y="650" as="geometry" />
@@ -26,16 +26,22 @@
           <mxGeometry height="60" width="120" x="436" y="650" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="110" width="160" x="190" y="170" as="geometry" />
+          <mxGeometry height="110" width="160" x="130" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="5q0y-dwMa04qiAreQRXG-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 服务" vertex="1">
+        <mxCell id="5q0y-dwMa04qiAreQRXG-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 进程" vertex="1">
           <mxGeometry height="60" width="620" x="110" y="450" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-5" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
           <mxGeometry height="60" width="620" x="110" y="530" as="geometry" />
         </mxCell>
         <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="110" width="160" x="450" y="170" as="geometry" />
+          <mxGeometry height="110" width="160" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
