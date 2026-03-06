@@ -14,16 +14,16 @@
           <mxGeometry height="60" width="620" x="110" y="360" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-7" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
-          <mxGeometry height="160" width="720" x="120" y="470" as="geometry" />
+          <mxGeometry height="120" width="310" x="120" y="470" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 界面" vertex="1">
           <mxGeometry height="140" width="131" x="119" y="150" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="530" as="geometry" />
+          <mxGeometry height="60" width="120" x="130" y="510" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flash 文件夹" vertex="1">
-          <mxGeometry height="60" width="120" x="350" y="530" as="geometry" />
+          <mxGeometry height="60" width="120" x="294" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
