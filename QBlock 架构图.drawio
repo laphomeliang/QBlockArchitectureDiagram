@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="9">
   <diagram name="QBlock 架构" id="UfozF-yskF6ckN9FuznP">
-    <mxGraphModel dx="1389" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="U2jJJWhotc0ts47g3ldP-0" />
         <mxCell id="U2jJJWhotc0ts47g3ldP-1" parent="U2jJJWhotc0ts47g3ldP-0" />
         <mxCell id="U2jJJWhotc0ts47g3ldP-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
-          <mxGeometry height="250" width="1340" x="100" y="330" as="geometry" />
+          <mxGeometry height="350" width="1340" x="100" y="330" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (浏览器)" vertex="1">
           <mxGeometry height="220" width="1340" x="100" y="100" as="geometry" />
@@ -13,82 +13,17 @@
         <mxCell id="U2jJJWhotc0ts47g3ldP-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
           <mxGeometry height="60" width="620" x="110" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-7" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="101" width="170" x="330" y="470" as="geometry" />
+        <mxCell id="U2jJJWhotc0ts47g3ldP-7" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="720" x="120" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-8" parent="U2jJJWhotc0ts47g3ldP-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;QDesigner 文件&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="95" x="366" y="501" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QKM+ 组件" vertex="1">
+        <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 界面" vertex="1">
           <mxGeometry height="140" width="131" x="119" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-10" edge="1" parent="U2jJJWhotc0ts47g3ldP-1" source="U2jJJWhotc0ts47g3ldP-19" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.547;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.859;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="U2jJJWhotc0ts47g3ldP-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="413" y="286" as="sourcePoint" />
-            <mxPoint x="640" y="359" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-11" connectable="0" parent="U2jJJWhotc0ts47g3ldP-10" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP 通讯发送保存 QDesigner GUI 信息" vertex="1">
-          <mxGeometry relative="1" x="-0.1879" y="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-12" edge="1" parent="U2jJJWhotc0ts47g3ldP-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;width=10;endSize=4.33;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="U2jJJWhotc0ts47g3ldP-8" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="413" y="420" as="sourcePoint" />
-            <mxPoint x="413" y="471" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-13" connectable="0" parent="U2jJJWhotc0ts47g3ldP-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="根据 QDesinger GUI 信息生成界面数据信息&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="-0.2022" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-15" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="基础信息" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-16" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="组件配置" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-17" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="组件方法" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-18" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="工程" vertex="1">
-          <mxGeometry height="140" width="110" x="350" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-19" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QDesigner 编辑" vertex="1">
-          <mxGeometry height="140" width="150" x="560" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-20" edge="1" parent="U2jJJWhotc0ts47g3ldP-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="250" y="220" as="sourcePoint" />
-            <mxPoint x="350" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-21" connectable="0" parent="U2jJJWhotc0ts47g3ldP-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="导入QKM+ 组件" vertex="1">
-          <mxGeometry relative="1" x="-0.1589" y="-2" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-22" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="操作组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-23" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="显示组件" vertex="1">
-          <mxGeometry height="30" width="118" x="660" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-24" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-25" edge="1" parent="U2jJJWhotc0ts47g3ldP-1" source="U2jJJWhotc0ts47g3ldP-18" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="U2jJJWhotc0ts47g3ldP-19" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="461" y="224.71" as="sourcePoint" />
-            <mxPoint x="561" y="224.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-26" connectable="0" parent="U2jJJWhotc0ts47g3ldP-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="工程制作界面" vertex="1">
-          <mxGeometry relative="1" x="-0.1589" y="-2" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
+        <mxCell id="5q0y-dwMa04qiAreQRXG-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flash 文件夹" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
