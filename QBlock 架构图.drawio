@@ -74,7 +74,7 @@
           <mxGeometry height="30" width="118" x="576" y="180" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-23" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="显示组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="210" as="geometry" />
+          <mxGeometry height="30" width="118" x="660" y="210" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-24" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入组件" vertex="1">
           <mxGeometry height="30" width="118" x="576" y="240" as="geometry" />
