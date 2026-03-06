@@ -38,10 +38,7 @@
           <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="93c0FevwadKyOHko6iRu-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="插件" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="195" as="geometry" />
+          <mxGeometry height="60" width="120" x="650" y="20" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="195" as="geometry" />
