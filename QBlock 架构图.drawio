@@ -17,7 +17,7 @@
           <mxGeometry height="120" width="700" x="70" y="610" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
-          <mxGeometry height="150" width="410" x="70" y="140" as="geometry" />
+          <mxGeometry height="160" width="410" x="70" y="140" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
           <mxGeometry height="60" width="120" x="232" y="650" as="geometry" />
