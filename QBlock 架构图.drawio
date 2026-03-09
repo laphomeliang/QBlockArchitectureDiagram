@@ -14,13 +14,13 @@
           <mxGeometry height="60" width="700" x="70" y="379" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-7" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="700" x="70" y="590" as="geometry" />
+          <mxGeometry height="140" width="700" x="70" y="590" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
           <mxGeometry height="180" width="430" x="70" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="60" width="120" x="215" y="634.5" as="geometry" />
+        <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
+          <mxGeometry height="101" width="180" x="170" y="619" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flash 文件夹" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="634.5" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
           <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5jWKEzcu9uhS_YF5d1-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 脚本文件" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
