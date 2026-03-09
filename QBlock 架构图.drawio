@@ -8,7 +8,7 @@
           <mxGeometry height="401" width="760" x="40" y="339" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (Windows/Android)" vertex="1">
-          <mxGeometry height="210" width="760" x="40" y="110" as="geometry" />
+          <mxGeometry height="230" width="760" x="40" y="90" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
           <mxGeometry height="60" width="700" x="70" y="379" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry height="130" width="700" x="70" y="590" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
-          <mxGeometry height="160" width="410" x="70" y="140" as="geometry" />
+          <mxGeometry height="180" width="430" x="70" y="120" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Card 文件夹" vertex="1">
           <mxGeometry height="60" width="120" x="215" y="634.5" as="geometry" />
@@ -25,17 +25,11 @@
         <mxCell id="5q0y-dwMa04qiAreQRXG-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flash 文件夹" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="634.5" as="geometry" />
         </mxCell>
-        <mxCell id="5q0y-dwMa04qiAreQRXG-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="80" width="110" x="90" y="185" as="geometry" />
-        </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="API 进程" vertex="1">
           <mxGeometry height="111" width="700" x="70" y="459" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-5" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
           <mxGeometry height="60" width="296" x="460" y="489.5" as="geometry" />
-        </mxCell>
-        <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="20" as="geometry" />
@@ -43,11 +37,23 @@
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="195" as="geometry" />
         </mxCell>
-        <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
-          <mxGeometry height="80" width="110" x="350" y="185" as="geometry" />
+        <mxCell id="uk5jWKEzcu9uhS_YF5d1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
+          <mxGeometry height="130" width="400" x="80" y="150" as="geometry" />
         </mxCell>
         <mxCell id="yWEJPa8PlwEaRuG0plzj-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
           <mxGeometry height="60" width="345" x="100" y="489.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uk5jWKEzcu9uhS_YF5d1-0" parent="U2jJJWhotc0ts47g3ldP-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock 框架关系&lt;/h1&gt;&lt;p&gt;整体架构分为应用层和 Pallas 控制器两部分，应用层指的是人机交互操作平台，在 Windows / Andorid；Pallas 控制器中指的是控制器中 Linux 环境部分。&lt;/p&gt;&lt;p&gt;QBlock 操作交互界面有 QBlock 界面，QDesigner 界面，QKM组件界面，QBlock 是通过 QBlock App 或者 Google 浏览器打开。&lt;/p&gt;&lt;p&gt;QBlock 服务在Pallas 控制器 (Linux) 中，是由 API 进程启动，部署 QBlock 操作交互界面，QBlock 的接口服务平台，接口可操作 API 功能。&lt;/p&gt;&lt;p&gt;QBlock 的脚本文件存放在 Card 文件夹内。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="220" width="360" x="860" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
+          <mxGeometry height="80" width="110" x="350" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="5q0y-dwMa04qiAreQRXG-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
+          <mxGeometry height="80" width="110" x="90" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
+          <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
