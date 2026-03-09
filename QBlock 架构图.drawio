@@ -32,7 +32,7 @@
           <mxGeometry height="111" width="700" x="70" y="459" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-5" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
-          <mxGeometry height="60" width="666" x="90" y="489.5" as="geometry" />
+          <mxGeometry height="60" width="296" x="460" y="489.5" as="geometry" />
         </mxCell>
         <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
           <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
           <mxGeometry height="80" width="110" x="350" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="yWEJPa8PlwEaRuG0plzj-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
+          <mxGeometry height="60" width="345" x="100" y="489.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
