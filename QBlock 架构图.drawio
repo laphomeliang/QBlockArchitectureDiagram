@@ -46,9 +46,6 @@
         <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
           <mxGeometry height="80" width="110" x="350" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="x-nTL29HjWYmi4fW6JBs-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="扩展服务" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="195" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
