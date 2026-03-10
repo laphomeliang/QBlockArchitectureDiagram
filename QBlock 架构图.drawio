@@ -75,7 +75,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="708L8Xnq8U3IfAQLnjWR-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock 启动&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;QBlock 脚本文件放在 Card 的固定文件件中，当 Pallas 控制器启动后， API 进程会自动启动 QBlock 服务，网络中存在机器人设备时，可通过机器人 IP 打开QBlock 界面。&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="708L8Xnq8U3IfAQLnjWR-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock 启动&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;QBlock 脚本文件放在 Card 的固定文件夹中，当 Pallas 控制器启动后， API 进程会自动启动 QBlock 服务，网络中存在机器人设备时，可通过机器人 IP 打开QBlock 界面。&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="270" x="20" y="620" as="geometry" />
         </mxCell>
         <mxCell id="q5GgPOaqNwxAD58q9Zxy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
