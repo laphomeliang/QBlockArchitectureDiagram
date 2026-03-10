@@ -737,100 +737,11 @@
       <root>
         <mxCell id="p8LCWhqM_mIbhJ-jUqgs-0" />
         <mxCell id="p8LCWhqM_mIbhJ-jUqgs-1" parent="p8LCWhqM_mIbhJ-jUqgs-0" />
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-2" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
-          <mxGeometry height="250" width="640" x="100" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-3" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (浏览器)" vertex="1">
-          <mxGeometry height="220" width="640" x="100" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-4" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
-          <mxGeometry height="60" width="620" x="110" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-5" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="180" width="620" x="110" y="120" as="geometry" />
-        </mxCell>
         <mxCell id="p8LCWhqM_mIbhJ-jUqgs-6" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. QDesigner GUI 编辑&lt;/h1&gt;&lt;p&gt;1、QDesigner 可编辑 GUI 界面，GUI 界面主要分三大类组件： &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;操作组件：如工程启停控制，机器人速度控制以及按钮控制，其中按钮控制可绑 QKM+ 组件实例方法做控制。&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;显示组件：可显示机器人实时信息如点位信息，全局变量信息，还可绑定 QKM+ 组件配置显示 QKM+ 组件实例的配置数据。&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;输入组件：用于配置 QKM+ 组件实例配置信息。&lt;/p&gt;&lt;p&gt;2、QDesigner 编辑完 GUI 界面，通过 HTTP 通讯发送 QDesigner GUI 信息进行保存。&lt;/p&gt;&lt;p&gt;3、QBlock 服务根据 QDesinger GUI 信息生成界面数据信息，保存到 QDesigner 数据库文件内&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="490" width="350" x="870" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-7" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="101" width="170" x="330" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-8" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;QDesigner 文件&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="95" x="366" y="501" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-9" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QKM+ 组件" vertex="1">
-          <mxGeometry height="140" width="131" x="119" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-10" edge="1" parent="p8LCWhqM_mIbhJ-jUqgs-1" source="q7mA3dC5-MVWm1vvT3c3-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.547;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.859;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="p8LCWhqM_mIbhJ-jUqgs-4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="413" y="286" as="sourcePoint" />
-            <mxPoint x="640" y="359" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-11" connectable="0" parent="p8LCWhqM_mIbhJ-jUqgs-10" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP 通讯发送保存 QDesigner GUI 信息" vertex="1">
-          <mxGeometry relative="1" x="-0.1879" y="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-12" edge="1" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;width=10;endSize=4.33;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="p8LCWhqM_mIbhJ-jUqgs-8" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="413" y="420" as="sourcePoint" />
-            <mxPoint x="413" y="471" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-7" connectable="0" parent="p8LCWhqM_mIbhJ-jUqgs-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="根据 QDesinger GUI 信息生成界面数据信息&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="-0.2022" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p8LCWhqM_mIbhJ-jUqgs-24" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3. QRL 工程运行时&amp;amp;QDesigner GUI 显示关系&lt;/h1&gt;&lt;p&gt;1、QDesigner GUI 中启停组件可发通过 HTTP 通讯控制工程的启停。&lt;/p&gt;&lt;p&gt;2、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QBlock 服务接收到工程启停信号，通过宏指令发送工程启停指令，API 启停 QRL 工程。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3、&lt;/span&gt;API 中的全局变量 [GString256] 除了带有工程执行状态的标识，还带有 QKM+ 组件实例的配置信息，Hidden 通道可上抛全局变量信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QBlock 服务可解析&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;全局变量 [GString256] 得到&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QKM+ 组件配置信息和机器人实时信息，并通过 Web Socket 上抛到&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QDesigner GUI 界面&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="490" width="350" x="827" y="1170" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-26" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="基础信息" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-27" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="组件配置" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="p8LCWhqM_mIbhJ-jUqgs-28" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="组件方法" vertex="1">
-          <mxGeometry height="30" width="118" x="124" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="q7mA3dC5-MVWm1vvT3c3-0" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="工程" vertex="1">
-          <mxGeometry height="140" width="110" x="350" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="q7mA3dC5-MVWm1vvT3c3-1" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QDesigner 编辑" vertex="1">
-          <mxGeometry height="140" width="150" x="560" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-0" edge="1" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="250" y="220" as="sourcePoint" />
-            <mxPoint x="350" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-1" connectable="0" parent="RZf4fEZx_5SQjOZmk2Jc-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="导入QKM+ 组件" vertex="1">
-          <mxGeometry relative="1" x="-0.1589" y="-2" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-2" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="操作组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-3" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="显示组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-4" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入组件" vertex="1">
-          <mxGeometry height="30" width="118" x="576" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-5" edge="1" parent="p8LCWhqM_mIbhJ-jUqgs-1" source="q7mA3dC5-MVWm1vvT3c3-0" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q7mA3dC5-MVWm1vvT3c3-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="461" y="224.71" as="sourcePoint" />
-            <mxPoint x="561" y="224.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZf4fEZx_5SQjOZmk2Jc-6" connectable="0" parent="RZf4fEZx_5SQjOZmk2Jc-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="工程制作界面" vertex="1">
-          <mxGeometry relative="1" x="-0.1589" y="-2" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-DHO4_kbibskp21HMbZX-0" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
           <mxGeometry height="249" width="640" x="100" y="1421" as="geometry" />
@@ -1145,7 +1056,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vBS97Ho0vvgoLbMEmeda-28" parent="p8LCWhqM_mIbhJ-jUqgs-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QDesigner&amp;amp;工程QRL代码&amp;amp;QKM+ 组件关系&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="40" width="490" x="410" y="-880" as="geometry" />
+          <mxGeometry height="40" width="490" x="400" y="-890" as="geometry" />
         </mxCell>
         <mxCell id="vBS97Ho0vvgoLbMEmeda-31" edge="1" parent="p8LCWhqM_mIbhJ-jUqgs-1" source="vBS97Ho0vvgoLbMEmeda-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="vBS97Ho0vvgoLbMEmeda-16">
           <mxGeometry relative="1" as="geometry" />
