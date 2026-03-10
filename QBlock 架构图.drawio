@@ -227,7 +227,7 @@
         <mxCell id="q5GgPOaqNwxAD58q9Zxy-25" edge="1" parent="1" source="q5GgPOaqNwxAD58q9Zxy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="q5GgPOaqNwxAD58q9Zxy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5GgPOaqNwxAD58q9Zxy-17" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
+        <mxCell id="q5GgPOaqNwxAD58q9Zxy-17" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="QBlock 脚本文件" vertex="1">
           <mxGeometry height="60" width="120" x="-610" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="q5GgPOaqNwxAD58q9Zxy-18" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
