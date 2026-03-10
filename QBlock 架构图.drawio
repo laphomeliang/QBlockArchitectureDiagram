@@ -647,10 +647,10 @@
           <mxGeometry height="160" width="380" x="250" y="-950" as="geometry" />
         </mxCell>
         <mxCell id="CNA3zSyAZR-AptDKkClA-38" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="70" width="130" x="110" y="-950" as="geometry" />
+          <mxGeometry height="70" width="110" x="110" y="-950" as="geometry" />
         </mxCell>
-        <mxCell id="CNA3zSyAZR-AptDKkClA-39" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="60" width="130" x="110" y="-870" as="geometry" />
+        <mxCell id="CNA3zSyAZR-AptDKkClA-39" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="QDesigner 界面" vertex="1">
+          <mxGeometry height="60" width="110" x="110" y="-870" as="geometry" />
         </mxCell>
         <mxCell id="CNA3zSyAZR-AptDKkClA-40" parent="csML4lfEoVQIY2oHZMmy-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
           <mxGeometry height="60" width="120" x="233" y="-411" as="geometry" />
@@ -658,14 +658,14 @@
         <mxCell id="CNA3zSyAZR-AptDKkClA-41" parent="csML4lfEoVQIY2oHZMmy-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
           <mxGeometry height="60" width="120" x="584" y="-411" as="geometry" />
         </mxCell>
-        <mxCell id="_fQLMZPGG-7iI-Y87r5F-0" parent="csML4lfEoVQIY2oHZMmy-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. QKM+ 组件制作&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、QKM+ 组件是一套方法组，其中包括基础信息，组件配置，组件方法，其中组件方法可通过图形程序转译成 QRL 代码。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、QKM+ 组件的信息通过 HTTP 接口发送到 QBlock 服务。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3、QBlock 服务把 QKM+ 组件信息转成文件，并生成 QRL 代码文件，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QKM+ 组件代码会以类的方式实现，组件配置相当与类的属性，组件方法相当与类的方法&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4、QKM+ 组件的文件会保存在 Card 文件夹中的指定路径。&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="_fQLMZPGG-7iI-Y87r5F-0" parent="csML4lfEoVQIY2oHZMmy-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. QKM+ 组件制作&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、QKM+ 组件是一套方法组，其中包括基础信息，组件配置，组件方法，其中组件方法可通过图形程序转译成 QRL 代码，组件界面可以通过 QDesigner 来制作。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、QKM+ 组件的信息通过 HTTP 接口发送到 QBlock 服务。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3、QBlock 服务把 QKM+ 组件信息转成文件，并生成 QRL 代码文件，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QKM+ 组件代码会以类的方式实现，组件配置相当与类的属性，组件方法相当与类的方法&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4、QKM+ 组件的文件会保存在 Card 文件夹中的指定路径。&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="490" width="350" x="860" y="-1050" as="geometry" />
         </mxCell>
         <mxCell id="_fQLMZPGG-7iI-Y87r5F-1" parent="csML4lfEoVQIY2oHZMmy-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QKM+ 组件&amp;amp;状态图&amp;amp;图形程序&amp;amp;工程QRL代码关系&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="589" x="400" y="-1169" as="geometry" />
         </mxCell>
         <mxCell id="rrJDG8VoxfxJhSi3MD7s-0" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="图形程序" vertex="1">
-          <mxGeometry height="85" width="160" x="461" y="-885" as="geometry" />
+          <mxGeometry height="37.5" width="160" x="460" y="-901.5" as="geometry" />
         </mxCell>
         <mxCell id="rrJDG8VoxfxJhSi3MD7s-1" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="基础信息" vertex="1">
           <mxGeometry height="30" width="160" x="258.5" y="-924" as="geometry" />
@@ -673,11 +673,14 @@
         <mxCell id="rrJDG8VoxfxJhSi3MD7s-2" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="组件配置" vertex="1">
           <mxGeometry height="30" width="160" x="258.5" y="-894" as="geometry" />
         </mxCell>
-        <mxCell id="rrJDG8VoxfxJhSi3MD7s-5" edge="1" parent="csML4lfEoVQIY2oHZMmy-1" source="rrJDG8VoxfxJhSi3MD7s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rrJDG8VoxfxJhSi3MD7s-0">
+        <mxCell id="rrJDG8VoxfxJhSi3MD7s-5" edge="1" parent="csML4lfEoVQIY2oHZMmy-1" source="rrJDG8VoxfxJhSi3MD7s-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="rrJDG8VoxfxJhSi3MD7s-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrJDG8VoxfxJhSi3MD7s-3" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="组件方法" vertex="1">
           <mxGeometry height="30" width="160" x="258.5" y="-864" as="geometry" />
+        </mxCell>
+        <mxCell id="OelvdkELKP67AJXckkOn-1" edge="1" parent="csML4lfEoVQIY2oHZMmy-1" source="rrJDG8VoxfxJhSi3MD7s-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="CNA3zSyAZR-AptDKkClA-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rrJDG8VoxfxJhSi3MD7s-4" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="组件界面" vertex="1">
           <mxGeometry height="30" width="160" x="258.5" y="-834" as="geometry" />
