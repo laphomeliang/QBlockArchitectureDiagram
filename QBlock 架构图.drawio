@@ -4,10 +4,10 @@
       <root>
         <mxCell id="U2jJJWhotc0ts47g3ldP-0" />
         <mxCell id="U2jJJWhotc0ts47g3ldP-1" parent="U2jJJWhotc0ts47g3ldP-0" />
-        <mxCell id="U2jJJWhotc0ts47g3ldP-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
+        <mxCell id="U2jJJWhotc0ts47g3ldP-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
           <mxGeometry height="401" width="760" x="50" y="379" as="geometry" />
         </mxCell>
-        <mxCell id="U2jJJWhotc0ts47g3ldP-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (Windows/Android)" vertex="1">
+        <mxCell id="U2jJJWhotc0ts47g3ldP-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="应用层 (Windows/Android)" vertex="1">
           <mxGeometry height="230" width="760" x="50" y="130" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
