@@ -31,7 +31,7 @@
         <mxCell id="5q0y-dwMa04qiAreQRXG-5" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
           <mxGeometry height="60" width="296" x="470" y="529.5" as="geometry" />
         </mxCell>
-        <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
+        <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外围设备" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="40" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
