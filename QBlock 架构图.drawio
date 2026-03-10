@@ -1,68 +1,68 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="9">
   <diagram name="QBlock 架构" id="UfozF-yskF6ckN9FuznP">
-    <mxGraphModel dx="1389" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="U2jJJWhotc0ts47g3ldP-0" />
         <mxCell id="U2jJJWhotc0ts47g3ldP-1" parent="U2jJJWhotc0ts47g3ldP-0" />
         <mxCell id="U2jJJWhotc0ts47g3ldP-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
-          <mxGeometry height="401" width="760" x="40" y="339" as="geometry" />
+          <mxGeometry height="401" width="760" x="-110" y="339" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (Windows/Android)" vertex="1">
-          <mxGeometry height="230" width="760" x="40" y="90" as="geometry" />
+          <mxGeometry height="230" width="760" x="-110" y="90" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
-          <mxGeometry height="60" width="700" x="70" y="379" as="geometry" />
+          <mxGeometry height="60" width="700" x="-80" y="379" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-7" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
-          <mxGeometry height="140" width="700" x="70" y="590" as="geometry" />
+          <mxGeometry height="140" width="700" x="-80" y="590" as="geometry" />
         </mxCell>
         <mxCell id="U2jJJWhotc0ts47g3ldP-9" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
-          <mxGeometry height="180" width="430" x="70" y="120" as="geometry" />
+          <mxGeometry height="180" width="430" x="-80" y="120" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="101" width="180" x="170" y="619" as="geometry" />
+          <mxGeometry height="101" width="180" x="20" y="619" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Flash 文件夹" vertex="1">
-          <mxGeometry height="102.75" width="190" x="490" y="617.25" as="geometry" />
+          <mxGeometry height="102.75" width="190" x="340" y="617.25" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="API 进程" vertex="1">
-          <mxGeometry height="111" width="700" x="70" y="459" as="geometry" />
+          <mxGeometry height="111" width="700" x="-80" y="459" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-5" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
-          <mxGeometry height="60" width="296" x="460" y="489.5" as="geometry" />
+          <mxGeometry height="60" width="296" x="310" y="489.5" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="707" y="195" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
-          <mxGeometry height="60" width="120" x="650" y="195" as="geometry" />
+          <mxGeometry height="60" width="120" x="500" y="195" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
-          <mxGeometry height="130" width="400" x="80" y="150" as="geometry" />
+          <mxGeometry height="130" width="400" x="-70" y="150" as="geometry" />
         </mxCell>
         <mxCell id="yWEJPa8PlwEaRuG0plzj-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
-          <mxGeometry height="60" width="345" x="100" y="489.5" as="geometry" />
+          <mxGeometry height="60" width="345" x="-50" y="489.5" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-0" parent="U2jJJWhotc0ts47g3ldP-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock 框架关系&lt;/h1&gt;&lt;p&gt;整体架构分为应用层和 Pallas 控制器两部分，应用层指的是人机交互操作平台，在 Windows / Andorid；Pallas 控制器中指的是控制器中 Linux 环境部分。&lt;/p&gt;&lt;p&gt;QBlock 操作交互界面有 QBlock 界面，QDesigner 界面，QKM组件界面，QBlock 是通过 QBlock App 或者 Google 浏览器打开。&lt;/p&gt;&lt;p&gt;QBlock 服务在Pallas 控制器 (Linux) 中，是由 API 进程启动，部署 QBlock 操作交互界面，QBlock 的接口服务平台，接口可通过各种通道操作 API 功能。&lt;/p&gt;&lt;p&gt;QBlock 服务和QBlock 操作交互界面是通过 HTTP / Web Socket 通讯。&lt;/p&gt;&lt;p&gt;QBlock 服务和 API 进程是通过各种通道进行 Socket 通讯，通道&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;如: Hidden 通道，QRL 信息通道，宏指令通道。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QBlock 的脚本文件存放在 Card 文件夹内，&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QBlock 服务可直接操作文件目录文件&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="330" width="360" x="860" y="20" as="geometry" />
         </mxCell>
         <mxCell id="93c0FevwadKyOHko6iRu-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
-          <mxGeometry height="80" width="110" x="350" y="185" as="geometry" />
+          <mxGeometry height="80" width="110" x="200" y="185" as="geometry" />
         </mxCell>
         <mxCell id="5q0y-dwMa04qiAreQRXG-3" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="80" width="110" x="90" y="185" as="geometry" />
+          <mxGeometry height="80" width="110" x="-60" y="185" as="geometry" />
         </mxCell>
         <mxCell id="1xpDnU07hamngr8z5JY1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="80" width="110" x="220" y="185" as="geometry" />
+          <mxGeometry height="80" width="110" x="70" y="185" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-2" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 脚本文件" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="650" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="650" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-3" parent="U2jJJWhotc0ts47g3ldP-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pallas 控制器基础关系&lt;/h1&gt;&lt;p&gt;这里只表述跟在 Pallas 控制器中跟 QBlock 相关的关系。&lt;/p&gt;&lt;p&gt;Pallas 控制器的文件目录中，QBlock 的文件存放在 Card 文件夹中欧给，QRL 工程文件存放在 Flash 文件夹。&lt;/p&gt;&lt;p&gt;API 进程是提供控制机器人的接口进程，QBlock 操作机器人是借助 API 功能实现的。同时是由 API 功能控制 QRL 进程执行 QRL 工程。各种通道也是通过 API 进程建立，如: Hidden 通道，QRL 信息通道，宏指令通道。&lt;/p&gt;" vertex="1">
           <mxGeometry height="220" width="360" x="860" y="365" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-4" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 工程文件" vertex="1">
-          <mxGeometry height="60" width="120" x="525" y="650" as="geometry" />
+          <mxGeometry height="60" width="120" x="375" y="650" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-5" parent="U2jJJWhotc0ts47g3ldP-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;外围设备关系&lt;/h1&gt;&lt;p&gt;外围设备指 Pallas 控制器以外的硬件设备，如: 视觉，升降柱，震散盘。&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;外围设备应用 (驱动)是指外围设备的指定应用或驱动，外围设备厂家可能只提供一种平台 (Windows / Android) 的&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;外围设备应用 (驱动)。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;外围设备和应用层 / Pallas 控制器可通过 I/O，串口，网线连接控制。&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="220" width="360" x="860" y="570" as="geometry" />
