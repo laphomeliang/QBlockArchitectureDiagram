@@ -32,7 +32,7 @@
           <mxGeometry height="60" width="120" x="660" y="40" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
-          <mxGeometry height="60" width="120" x="660" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="265" as="geometry" />
         </mxCell>
         <mxCell id="uk5jWKEzcu9uhS_YF5d1-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
           <mxGeometry height="130" width="400" x="90" y="220" as="geometry" />
