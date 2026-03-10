@@ -149,7 +149,7 @@
       <root>
         <mxCell id="TYf4HIN_OdFhzMYm2sIQ-0" />
         <mxCell id="TYf4HIN_OdFhzMYm2sIQ-1" parent="TYf4HIN_OdFhzMYm2sIQ-0" />
-        <mxCell id="hULRsRbFxbDwoqOJEctQ-0" parent="TYf4HIN_OdFhzMYm2sIQ-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock &amp;amp; API 通讯关系&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、QBlock 服务是通过 2090 端口执行宏指令，通过 2091 端口获取 Hidden 通道信息，通过 2092 端口获取 QRL 信息。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、QBlock 界面跟服务使用 Http 进行问答式的接口通讯 (包含宏指令功能接口，QBlock 功能接口)，并使用 Web Socket 长连接实时获取上抛信息（Hidden 通道信息，QRL通道信息，QBlock 状态信息）。&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="hULRsRbFxbDwoqOJEctQ-0" parent="TYf4HIN_OdFhzMYm2sIQ-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock &amp;amp; API 通讯关系&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、QBlock 服务是通过 API 进程功能通道过去信息，通过 2090 端口执行宏指令，通过 2091 端口获取 Hidden 通道信息，通过 2092 端口获取 QRL 信息。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、QBlock 界面跟服务使用 Http 进行问答式的接口通讯 (包含宏指令功能接口，QBlock 功能接口)，并使用 Web Socket 长连接实时获取上抛信息（Hidden 通道信息，QRL通道信息，QBlock 状态信息）。&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="850" y="710" as="geometry" />
         </mxCell>
         <mxCell id="MhvqK4Vf26jNB6nYuNEp-0" parent="TYf4HIN_OdFhzMYm2sIQ-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
