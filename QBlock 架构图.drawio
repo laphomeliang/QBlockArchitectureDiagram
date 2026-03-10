@@ -462,10 +462,10 @@
           <mxGeometry height="160" width="380" x="250" y="-950" as="geometry" />
         </mxCell>
         <mxCell id="CNA3zSyAZR-AptDKkClA-38" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="70" width="110" x="110" y="-950" as="geometry" />
+          <mxGeometry height="70" width="110" x="110" y="-944" as="geometry" />
         </mxCell>
         <mxCell id="CNA3zSyAZR-AptDKkClA-39" parent="csML4lfEoVQIY2oHZMmy-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="QDesigner 界面" vertex="1">
-          <mxGeometry height="60" width="110" x="110" y="-870" as="geometry" />
+          <mxGeometry height="60" width="110" x="110" y="-849" as="geometry" />
         </mxCell>
         <mxCell id="CNA3zSyAZR-AptDKkClA-40" parent="csML4lfEoVQIY2oHZMmy-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
           <mxGeometry height="60" width="120" x="233" y="-411" as="geometry" />
