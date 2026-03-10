@@ -75,48 +75,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
-          <mxGeometry height="330" width="260" x="140" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (浏览器)" vertex="1">
-          <mxGeometry height="120" width="260" x="140" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="100" width="160" x="200" y="370" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-4" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
-          <mxGeometry height="60" width="95" x="225" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
-          <mxGeometry height="60" width="120" x="212.5" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-6" edge="1" parent="1" source="n4ivbpMnU-iCPbkisWpL-4" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="n4ivbpMnU-iCPbkisWpL-5" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-7" connectable="0" parent="n4ivbpMnU-iCPbkisWpL-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="API 启动" vertex="1">
-          <mxGeometry relative="1" x="0.046" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;QBlock 操作交互界面&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="212.5" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-9" edge="1" parent="1" source="n4ivbpMnU-iCPbkisWpL-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="n4ivbpMnU-iCPbkisWpL-8" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="220" as="sourcePoint" />
-            <mxPoint x="440" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n4ivbpMnU-iCPbkisWpL-11" connectable="0" parent="n4ivbpMnU-iCPbkisWpL-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="机器人IP 打开QBlock 界面" vertex="1">
-          <mxGeometry relative="1" x="-0.1345" y="-1" as="geometry">
-            <mxPoint x="-1" y="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="708L8Xnq8U3IfAQLnjWR-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;QBlock 启动&lt;/h1&gt;&lt;p&gt;QBlock 脚本文件放在 Card 的固定文件件中，当 Pallas 控制器启动后， API 线程会自动启动 QBlock 服务，网络中存在机器人设备时，可通过机器人 IP 打开QBlock 界面。&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="270" x="440" y="20" as="geometry" />
+          <mxGeometry height="130" width="270" x="40" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="O8i9RuS9YJldHo47ginh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;strokeColor=#3399FF;" value="Pallas 控制器 (Linux)" vertex="1">
           <mxGeometry height="401" width="760" x="-770" y="99" as="geometry" />
@@ -157,13 +117,13 @@
         <mxCell id="O8i9RuS9YJldHo47ginh-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" value="API 功能" vertex="1">
           <mxGeometry height="60" width="310" x="-720" y="249.5" as="geometry" />
         </mxCell>
-        <mxCell id="O8i9RuS9YJldHo47ginh-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
+        <mxCell id="O8i9RuS9YJldHo47ginh-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#3399FF;" value="QKM+ 组件" vertex="1">
           <mxGeometry height="80" width="110" x="-315" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="O8i9RuS9YJldHo47ginh-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#3399FF;" value="QBlock 界面" vertex="1">
           <mxGeometry height="80" width="110" x="-575" y="-55" as="geometry" />
         </mxCell>
-        <mxCell id="O8i9RuS9YJldHo47ginh-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
+        <mxCell id="O8i9RuS9YJldHo47ginh-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#3399FF;" value="QDesigner 界面" vertex="1">
           <mxGeometry height="80" width="110" x="-445" y="-55" as="geometry" />
         </mxCell>
         <mxCell id="O8i9RuS9YJldHo47ginh-19" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#3399FF;" value="QBlock 脚本文件" vertex="1">
@@ -172,7 +132,7 @@
         <mxCell id="O8i9RuS9YJldHo47ginh-20" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
           <mxGeometry height="60" width="120" x="-285" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="R8nkOaP4nueAi6ePWKYd-1" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-19" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="O8i9RuS9YJldHo47ginh-13" value="">
+        <mxCell id="R8nkOaP4nueAi6ePWKYd-1" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-19" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;" target="O8i9RuS9YJldHo47ginh-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-540" y="590" as="sourcePoint" />
             <mxPoint x="-490" y="540" as="targetPoint" />
@@ -183,7 +143,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8nkOaP4nueAi6ePWKYd-3" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-3" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="O8i9RuS9YJldHo47ginh-12" value="">
+        <mxCell id="R8nkOaP4nueAi6ePWKYd-3" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-3" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3399FF;" target="O8i9RuS9YJldHo47ginh-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-540" y="250" as="sourcePoint" />
             <mxPoint x="-490" y="200" as="targetPoint" />
@@ -199,7 +159,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R8nkOaP4nueAi6ePWKYd-6" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="O8i9RuS9YJldHo47ginh-3" value="">
+        <mxCell id="R8nkOaP4nueAi6ePWKYd-6" edge="1" parent="1" source="O8i9RuS9YJldHo47ginh-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3399FF;" target="O8i9RuS9YJldHo47ginh-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-530" y="250" as="sourcePoint" />
             <mxPoint x="-480" y="200" as="targetPoint" />
