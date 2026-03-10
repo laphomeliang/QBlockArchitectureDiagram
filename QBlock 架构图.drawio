@@ -226,94 +226,6 @@
       <root>
         <mxCell id="h2vfg5xof5ICqQ1aPUKA-0" />
         <mxCell id="h2vfg5xof5ICqQ1aPUKA-1" parent="h2vfg5xof5ICqQ1aPUKA-0" />
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-0" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
-          <mxGeometry height="250" width="640" x="100" y="891" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层 (浏览器)" vertex="1">
-          <mxGeometry height="220" width="640" x="100" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-2" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
-          <mxGeometry height="60" width="620" x="110" y="921" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-3" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 界面" vertex="1">
-          <mxGeometry height="180" width="620" x="110" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-4" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="工程程序" vertex="1">
-          <mxGeometry height="140" width="600" x="120" y="696" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-5" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="状态图" vertex="1">
-          <mxGeometry height="90" width="160" x="340" y="726" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-6" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="图形程序" vertex="1">
-          <mxGeometry height="90" width="160" x="540" y="726" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-7" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="API 进程" vertex="1">
-          <mxGeometry height="95" width="620" x="110" y="1032" as="geometry" />
-        </mxCell>
-        <mxCell id="l9kmK-6JU0HJInF-2AgP-8" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
-          <mxGeometry height="60" width="600" x="120" y="1057" as="geometry" />
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-0" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="Joif_HDzsyg-DNdQxSyn-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.212;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="l9kmK-6JU0HJInF-2AgP-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="230" y="1032" as="sourcePoint" />
-            <mxPoint x="280" y="982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-2" connectable="0" parent="Joif_HDzsyg-DNdQxSyn-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTP 通讯发送工程启停" vertex="1">
-          <mxGeometry relative="1" x="0.1671" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="启停控制" vertex="1">
-          <mxGeometry height="90" width="100" x="190" y="726" as="geometry" />
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-3" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="239.5" y="981" as="sourcePoint" />
-            <mxPoint x="240" y="1032" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-4" connectable="0" parent="Joif_HDzsyg-DNdQxSyn-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过宏指令发送工程启停" vertex="1">
-          <mxGeometry relative="1" x="0.1671" as="geometry">
-            <mxPoint y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-5" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="l9kmK-6JU0HJInF-2AgP-7" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="l9kmK-6JU0HJInF-2AgP-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="490" y="962" as="sourcePoint" />
-            <mxPoint x="540" y="912" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-6" connectable="0" parent="Joif_HDzsyg-DNdQxSyn-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hidden 通道上抛实时信息" vertex="1">
-          <mxGeometry relative="1" x="-0.3882" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-7" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="670" y="1032" as="sourcePoint" />
-            <mxPoint x="670" y="981" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-8" connectable="0" parent="Joif_HDzsyg-DNdQxSyn-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="QRL 通道上抛 QRL 代码信息" vertex="1">
-          <mxGeometry relative="1" x="-0.3882" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-9" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="921" as="sourcePoint" />
-            <mxPoint x="520" y="836" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-10" connectable="0" parent="Joif_HDzsyg-DNdQxSyn-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过 Web Socket 上抛实时信息&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="0.1671" as="geometry">
-            <mxPoint y="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Joif_HDzsyg-DNdQxSyn-14" parent="h2vfg5xof5ICqQ1aPUKA-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 状态图&amp;amp;图形程序&amp;amp;工程 QRL代码运行关系&lt;/h1&gt;&lt;p&gt;1、在界面触发启停控制，通过 HTTP 通讯发送工程启停信号。&lt;/p&gt;&lt;p&gt;2、QBlock 服务接收到工程启停信号，通过宏指令发送工程启停指令，API 启停 QRL 工程。&lt;/p&gt;&lt;p&gt;3、QRL 工程运行过程中，API 进程会通过 Hidden 通道和 QRL 通道上抛实时信息, QBlock 服务通过 Web Socket 上抛实时信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;4、Hidden 通道上抛 API 中的全局变量 [GString256] 带有工程执行状态的标识，用于状态图显示当前执行状态位置。&lt;/p&gt;&lt;p&gt;5、Hidden 通道上抛的行号信息，通过 QBlock 服务分析后可得到工程代码当前执行的图块信息，用于图形程序显示当前执行图块位置。&lt;/p&gt;&lt;p&gt;6、QRL 通道上抛包含 QRL 代码报错信息，会结合&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;全局变量 [GString256]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;工程执行状态的标识和行号信息，用于状态图和图形程序显示报错。&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="490" width="350" x="827" y="640" as="geometry" />
-        </mxCell>
         <mxCell id="t0-THS3WoxtRY0N7hsyh-0" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
           <mxGeometry height="401" width="760" x="60" y="-683" as="geometry" />
         </mxCell>
@@ -404,11 +316,95 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Aq2KWs4EDmLawkT4UW3-7" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="40" y="-1080" as="sourcePoint" />
-            <mxPoint x="1200" y="-1080" as="targetPoint" />
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-8" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
+          <mxGeometry height="401" width="760" x="60" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-9" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="应用层 (Windows/Android)" vertex="1">
+          <mxGeometry height="290" width="760" x="60" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-10" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
+          <mxGeometry height="230" width="570" x="90" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-11" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="QBlock 服务" vertex="1">
+          <mxGeometry height="60" width="700" x="90" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-12" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="700" x="90" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-13" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
+          <mxGeometry height="101" width="180" x="190" y="439" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-14" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Flash 文件夹" vertex="1">
+          <mxGeometry height="102.75" width="190" x="532" y="437.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-15" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="API 进程" vertex="1">
+          <mxGeometry height="111" width="700" x="90" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-16" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="QRL 进程" vertex="1">
+          <mxGeometry height="60" width="296" x="480" y="309.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-17" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外围设备" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-18" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-35" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="2Aq2KWs4EDmLawkT4UW3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="2Aq2KWs4EDmLawkT4UW3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-36" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="2Aq2KWs4EDmLawkT4UW3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2Aq2KWs4EDmLawkT4UW3-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="400" />
+              <mxPoint x="410" y="400" />
+              <mxPoint x="410" y="500" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-19" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="API 功能" vertex="1">
+          <mxGeometry height="60" width="320" x="120" y="309.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-20" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
+          <mxGeometry height="180" width="550" x="100" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-21" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
+          <mxGeometry height="80" width="110" x="531.5" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-22" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 界面" vertex="1">
+          <mxGeometry height="140" width="410" x="110" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-23" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
+          <mxGeometry height="80" width="110" x="531.5" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-24" parent="h2vfg5xof5ICqQ1aPUKA-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
+          <mxGeometry height="60" width="120" x="225" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-37" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="2Aq2KWs4EDmLawkT4UW3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="2Aq2KWs4EDmLawkT4UW3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-25" parent="h2vfg5xof5ICqQ1aPUKA-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="QRL 工程文件" vertex="1">
+          <mxGeometry height="60" width="120" x="567" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-26" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="2Aq2KWs4EDmLawkT4UW3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="2Aq2KWs4EDmLawkT4UW3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-27" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="工程程序" vertex="1">
+          <mxGeometry height="100" width="390" x="120" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-29" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="状态图" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-30" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="图形程序" vertex="1">
+          <mxGeometry height="60" width="120" x="373.5" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-32" parent="h2vfg5xof5ICqQ1aPUKA-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 状态图&amp;amp;图形程序&amp;amp;工程 QRL代码运行关系&lt;/h1&gt;&lt;p&gt;1、在界面触发启停控制，通过 HTTP 通讯发送工程启停信号。&lt;/p&gt;&lt;p&gt;2、QBlock 服务接收到工程启停信号，通过宏指令发送工程启停指令，API 启停 QRL 工程。&lt;/p&gt;&lt;p&gt;3、QRL 工程运行过程中，API 进程会通过 Hidden 通道和 QRL 通道上抛实时信息, QBlock 服务通过 Web Socket 上抛实时信息&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;4、Hidden 通道上抛 API 中的全局变量 [GString256] 带有工程执行状态的标识，用于状态图显示当前执行状态位置。&lt;/p&gt;&lt;p&gt;5、Hidden 通道上抛的行号信息，通过 QBlock 服务分析后可得到工程代码当前执行的图块信息，用于图形程序显示当前执行图块位置。&lt;/p&gt;&lt;p&gt;6、QRL 通道上抛包含 QRL 代码报错信息，会结合&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;全局变量 [GString256]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;工程执行状态的标识和行号信息，用于状态图和图形程序显示报错。&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="490" width="350" x="850" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-33" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="启停控制" vertex="1">
+          <mxGeometry height="60" width="90" x="130" y="8" as="geometry" />
+        </mxCell>
+        <mxCell id="2Aq2KWs4EDmLawkT4UW3-34" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="2Aq2KWs4EDmLawkT4UW3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="2Aq2KWs4EDmLawkT4UW3-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
