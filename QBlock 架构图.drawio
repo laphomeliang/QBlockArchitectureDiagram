@@ -260,7 +260,7 @@
           <mxGeometry height="60" width="120" x="670" y="-827" as="geometry" />
         </mxCell>
         <mxCell id="t0-THS3WoxtRY0N7hsyh-13" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
-          <mxGeometry height="60" width="330" x="120" y="-532.5" as="geometry" />
+          <mxGeometry height="60" width="300" x="120" y="-532.5" as="geometry" />
         </mxCell>
         <mxCell id="t0-THS3WoxtRY0N7hsyh-14" parent="h2vfg5xof5ICqQ1aPUKA-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
           <mxGeometry height="180" width="550" x="100" y="-922" as="geometry" />
@@ -310,8 +310,7 @@
         <mxCell id="2Aq2KWs4EDmLawkT4UW3-6" edge="1" parent="h2vfg5xof5ICqQ1aPUKA-1" source="t0-THS3WoxtRY0N7hsyh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t0-THS3WoxtRY0N7hsyh-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="-583" />
-              <mxPoint x="460" y="-442" />
+              <mxPoint x="440" y="-442" />
               <mxPoint x="605" y="-442" />
             </Array>
           </mxGeometry>
