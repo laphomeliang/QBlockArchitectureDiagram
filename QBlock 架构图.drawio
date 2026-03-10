@@ -1176,7 +1176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zNfUYHx5pARklnNn9r9M" name="SDK 开发">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1186,39 +1186,23 @@
         <mxCell id="vm6xDNujBMLczH1im54--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层（各平台应用）" vertex="1">
           <mxGeometry height="213" width="640" x="-460" y="-151" as="geometry" />
         </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="软件应用（桌面应用、安卓应用，Web 应用）" vertex="1">
+        <mxCell id="vm6xDNujBMLczH1im54--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="软件应用（桌面应用、安卓应用，Web 应用）" vertex="1">
           <mxGeometry height="41" width="560" x="-420" y="-121" as="geometry" />
         </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="API 进程" vertex="1">
+        <mxCell id="6MG9L8KIAUknAHEG-v9u-1" edge="1" parent="1" source="vm6xDNujBMLczH1im54--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vm6xDNujBMLczH1im54--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vm6xDNujBMLczH1im54--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="API 进程" vertex="1">
           <mxGeometry height="100" width="560" x="-420" y="148" as="geometry" />
         </mxCell>
         <mxCell id="vm6xDNujBMLczH1im54--16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. 通过 SDK 应用开发&lt;/h1&gt;&lt;p&gt;1、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;我们可以对一些外围设备借助 SDK 进行软件开发，方便我们对外围设备配置。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2、对 API 进行的接口封装成 SDK 库文件。&lt;/p&gt;&lt;p&gt;3、各个平台应用可通过 SDK 库文件加载，第三方开发可实现控制机器人的软件应用。&lt;/p&gt;" vertex="1">
           <mxGeometry height="200" width="350" x="230" y="-151" as="geometry" />
         </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SDK 库文件" vertex="1">
+        <mxCell id="6MG9L8KIAUknAHEG-v9u-2" edge="1" parent="1" source="vm6xDNujBMLczH1im54--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vm6xDNujBMLczH1im54--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vm6xDNujBMLczH1im54--17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="SDK 库文件" vertex="1">
           <mxGeometry height="39" width="560" x="-420" y="-2" as="geometry" />
-        </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--18" edge="1" parent="1" source="vm6xDNujBMLczH1im54--17" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="vm6xDNujBMLczH1im54--4" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="175" y="226" as="sourcePoint" />
-            <mxPoint x="225" y="176" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--20" connectable="0" parent="vm6xDNujBMLczH1im54--18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="库文件加载" vertex="1">
-          <mxGeometry relative="1" x="-0.2857" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--21" edge="1" parent="1" source="vm6xDNujBMLczH1im54--5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="vm6xDNujBMLczH1im54--17" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-140.5" y="137" as="sourcePoint" />
-            <mxPoint x="-140.5" y="59" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vm6xDNujBMLczH1im54--22" connectable="0" parent="vm6xDNujBMLczH1im54--21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="库文件封装" vertex="1">
-          <mxGeometry relative="1" x="-0.2857" y="-1" as="geometry">
-            <mxPoint x="-1" y="-21" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vm6xDNujBMLczH1im54--23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Pallas 控制器 (Linux)" vertex="1">
           <mxGeometry height="168" width="640" x="-460" y="581" as="geometry" />
@@ -1259,6 +1243,9 @@
           <mxGeometry relative="1" x="-0.2051" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t6v0BGnkSqZF04VsmyId-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;SDK 开发&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="49" width="153" x="27" y="-241" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
