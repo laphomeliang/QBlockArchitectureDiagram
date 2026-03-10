@@ -32,7 +32,7 @@
           <mxGeometry height="60" width="296" x="310" y="489.5" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-0" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备" vertex="1">
-          <mxGeometry height="60" width="120" x="707" y="195" as="geometry" />
+          <mxGeometry height="60" width="120" x="700" y="195" as="geometry" />
         </mxCell>
         <mxCell id="OsFTFrHV9f9_OhczGHBW-1" parent="U2jJJWhotc0ts47g3ldP-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="195" as="geometry" />
