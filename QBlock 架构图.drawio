@@ -1988,20 +1988,14 @@
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="应用层 (Windows/Android)" vertex="1">
           <mxGeometry height="230" width="760" x="-785" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
-          <mxGeometry height="60" width="700" x="-755" y="-481" as="geometry" />
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="节卡 App 服务" vertex="1">
+          <mxGeometry height="61" width="345" x="-755" y="-481" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
           <mxGeometry height="140" width="700" x="-755" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-4" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="节卡 App" vertex="1">
           <mxGeometry height="180" width="420" x="-755" y="-740" as="geometry" />
-        </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-5" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
-          <mxGeometry height="101" width="180" x="-655" y="-241" as="geometry" />
-        </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-6" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Flash 文件夹" vertex="1">
-          <mxGeometry height="102.75" width="190" x="-335" y="-242.75" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-7" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="节卡 API" vertex="1">
           <mxGeometry height="111" width="700" x="-755" y="-401" as="geometry" />
@@ -2013,16 +2007,13 @@
           <mxGeometry height="60" width="120" x="-175" y="-665" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-12" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
-          <mxGeometry height="60" width="320" x="-725" y="-370.5" as="geometry" />
+          <mxGeometry height="60" width="635" x="-725" y="-370.5" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-13" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;节卡 AddOn" vertex="1">
           <mxGeometry height="130" width="375" x="-735" y="-710" as="geometry" />
         </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-16" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
-          <mxGeometry height="60" width="120" x="-625" y="-210" as="geometry" />
-        </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-17" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
-          <mxGeometry height="60" width="120" x="-300" y="-210" as="geometry" />
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-16" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="节卡机器人文件" vertex="1">
+          <mxGeometry height="60" width="120" x="-465" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-19" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;节卡 AddOn 插件&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="218" x="-188" y="-1160" as="geometry" />
@@ -2032,6 +2023,15 @@
             <mxPoint x="-800" y="-880" as="sourcePoint" />
             <mxPoint x="441.88232421875" y="-880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义服务" vertex="1">
+          <mxGeometry height="61" width="320" x="-375" y="-481" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义网页" vertex="1">
+          <mxGeometry height="61" width="163" x="-723" y="-665" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
+          <mxGeometry height="61" width="169" x="-544" y="-666" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
