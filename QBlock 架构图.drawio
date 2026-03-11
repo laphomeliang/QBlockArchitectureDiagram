@@ -1701,8 +1701,8 @@
         <mxCell id="GijsNv5Zer1ep9HGTLDq-9" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 节卡 AddOn 运行机制&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、节卡 AddOn 插件基础功能：自定义服务、自定义&lt;span style=&quot;background-color: transparent;&quot;&gt;指令&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;、自定义&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;网页&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2、自定义服务：&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;基于 node-red 开发，在控制器中运行。当 AddOn 被启动时，控制器启动该 AddOn 的 node-red 进程。自定义服务可以作为中间层，为自定义指令、自定义网页提供服务。通过 node-red 中提供的相关节点，可以查询机器人信息、设置机器人参数、控制机器人运动。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;3、自定义指令：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;属性、编辑页面和脚本，这三部分均在 AddOn 开发工具（node-red）中定义。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;4、自定义网页：&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;通常被部署在节卡控制器上，并通过 Nginx 进行代理。当然，也有可能将其部署在个人计算机或其他设备上。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="310" width="393" x="21" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="iAPnYqF2oLcWZOgBj8bz-9" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4. 自定义指令制作&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1、打开&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-red 开发界面&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 11px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2、使用自定义指令节点，定义属性，样式，代码&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;3、配置输出接口，可得到自定义指令&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;4、在节卡的图形编程界面可选取该自定义指令&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="269" width="393" x="206" y="1194" as="geometry" />
+        <mxCell id="iAPnYqF2oLcWZOgBj8bz-9" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4. 自定义指令制作&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;1、打开&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-red 开发界面&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2、使用自定义指令节点，定义属性，样式，代码&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;3、配置输出接口，可得到自定义指令&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4、在节卡的图形编程界面可选取该自定义指令&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="269" width="393" x="21" y="827" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-20" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="程序代码" vertex="1">
           <mxGeometry height="196" width="140" x="-444" y="1565" as="geometry" />
@@ -1758,22 +1758,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iAPnYqF2oLcWZOgBj8bz-42" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3. 自定义服务定义&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1、&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-size: 11px; font-weight: 600;&quot;&gt;JAKA_Service_config.ini 包含 AddOn 配置信息 (名称、端口、后端开发语言、功能描述)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2、&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-size: 11px; font-weight: 600;&quot;&gt;JAKA_Service_config.ini&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-size: 11px; font-weight: 600;&quot;&gt;&amp;nbsp;按规则打包上传到 JAKA App，JAKA App 部署自定义服务。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;3、输入控制器地址加配置信息的端口号，可以打开 node-red 开发界面。&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;4、在&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-red 开发界面可开发自定义服务的接口功能、自定义指令以及自定义界面。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="iAPnYqF2oLcWZOgBj8bz-42" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3. 自定义服务定义&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;1、&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-weight: 600;&quot;&gt;JAKA_Service_config.ini 包含 AddOn 配置信息 (名称、端口、后端开发语言、功能描述)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-weight: 600;&quot;&gt;JAKA_Service_config.ini&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-weight: 600;&quot;&gt;&amp;nbsp;按规则打包上传到 JAKA App，JAKA App 部署自定义服务。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;3、输入控制器地址加配置信息的端口号，可以打开 node-red 开发界面。&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;4、在&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;node-red 开发界面可开发自定义服务的接口功能、自定义指令以及自定义界面。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="269" width="393" x="30" y="28" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-54" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="控制器" vertex="1">
-          <mxGeometry height="101" width="190" x="-550" y="1288" as="geometry" />
+          <mxGeometry height="101" width="190" x="-2" y="1122" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-55" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义服务" vertex="1">
-          <mxGeometry height="60" width="120" x="-511" y="1314" as="geometry" />
+          <mxGeometry height="60" width="120" x="37" y="1148" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-56" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="node-red 开发界面" vertex="1">
-          <mxGeometry height="299" width="204" x="-229" y="1194" as="geometry" />
+          <mxGeometry height="299" width="204" x="319" y="1028" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-57" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="iAPnYqF2oLcWZOgBj8bz-55" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iAPnYqF2oLcWZOgBj8bz-56" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-389" y="1250" as="sourcePoint" />
-            <mxPoint x="-398" y="1313" as="targetPoint" />
+            <mxPoint x="159" y="1084" as="sourcePoint" />
+            <mxPoint x="150" y="1147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-58" connectable="0" parent="iAPnYqF2oLcWZOgBj8bz-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="控制器地址 + 配置端口" vertex="1">
@@ -1782,24 +1782,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-60" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="自定义指令节点" vertex="1">
-          <mxGeometry height="235" width="172" x="-214" y="1236" as="geometry" />
+          <mxGeometry height="235" width="172" x="334" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-61" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="属性" vertex="1">
-          <mxGeometry height="60" width="120" x="-188" y="1271" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="1105" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-62" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="样式" vertex="1">
-          <mxGeometry height="60" width="120" x="-188" y="1334" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="1168" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-63" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="代码" vertex="1">
-          <mxGeometry height="60" width="120" x="-188" y="1397" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="1231" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-64" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
-          <mxGeometry height="60" width="120" x="53" y="1314" as="geometry" />
+          <mxGeometry height="60" width="120" x="601" y="1148" as="geometry" />
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-65" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="iAPnYqF2oLcWZOgBj8bz-56" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iAPnYqF2oLcWZOgBj8bz-64" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="57" y="1498" as="sourcePoint" />
-            <mxPoint x="107" y="1448" as="targetPoint" />
+            <mxPoint x="605" y="1332" as="sourcePoint" />
+            <mxPoint x="655" y="1282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iAPnYqF2oLcWZOgBj8bz-67" connectable="0" parent="iAPnYqF2oLcWZOgBj8bz-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="配置" vertex="1">
@@ -2030,6 +2030,72 @@
           <mxGeometry height="80" width="120" x="-770" y="123.5" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-28" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="7NlO0MsowyBqrU6M-R0K-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-33" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="节卡 控制器" vertex="1">
+          <mxGeometry height="401" width="760" x="-785" y="1076" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-34" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="应用层 (Windows/Android)" vertex="1">
+          <mxGeometry height="230" width="760" x="-785" y="827" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-35" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7NlO0MsowyBqrU6M-R0K-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-36" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" value="节卡 App 服务" vertex="1">
+          <mxGeometry height="61" width="345" x="-755" y="1106" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-37" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="700" x="-755" y="1327" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-38" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7NlO0MsowyBqrU6M-R0K-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-39" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="节卡 App" vertex="1">
+          <mxGeometry height="180" width="440" x="-611" y="857" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-40" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="节卡 API" vertex="1">
+          <mxGeometry height="111" width="700" x="-755" y="1196" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-41" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外围设备" vertex="1">
+          <mxGeometry height="60" width="120" x="-175" y="737" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-42" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
+          <mxGeometry height="60" width="120" x="-156" y="933" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-43" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
+          <mxGeometry height="60" width="635" x="-725" y="1226.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-44" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="&amp;nbsp;节卡 AddOn" vertex="1">
+          <mxGeometry height="130" width="400" x="-591" y="887" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-45" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="节卡机器人文件" vertex="1">
+          <mxGeometry height="60" width="120" x="-465" y="1377" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-46" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-800" y="717" as="sourcePoint" />
+            <mxPoint x="441.88232421875" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-47" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="7NlO0MsowyBqrU6M-R0K-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-48" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自定义服务" vertex="1">
+          <mxGeometry height="61" width="320" x="-375" y="1106" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-49" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="node-red" vertex="1">
+          <mxGeometry height="97.5" width="370" x="-571" y="909.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-50" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义网页" vertex="1">
+          <mxGeometry height="61" width="163" x="-557" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-51" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
+          <mxGeometry height="61" width="169" x="-379" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-52" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;span style=&quot;color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; font-size: 11px; font-weight: 600; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;JAKA_Service_config.ini&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="-770" y="922.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-53" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="7NlO0MsowyBqrU6M-R0K-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
