@@ -2112,7 +2112,7 @@
           <mxGeometry height="60" width="635" x="-725" y="2027.5" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-70" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;节卡 AddOn" vertex="1">
-          <mxGeometry height="130" width="559" x="-750" y="1688" as="geometry" />
+          <mxGeometry height="130" width="359" x="-550" y="1688" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-71" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="节卡机器人文件" vertex="1">
           <mxGeometry height="60" width="120" x="-465" y="2178" as="geometry" />
@@ -2135,28 +2135,30 @@
           <mxGeometry height="61" width="320" x="-375" y="1907" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-75" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="node-red" vertex="1">
-          <mxGeometry height="97.5" width="539" x="-740" y="1710.5" as="geometry" />
+          <mxGeometry height="97.5" width="319" x="-520" y="1710.5" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-76" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义网页" vertex="1">
-          <mxGeometry height="67" width="107" x="-735" y="1734" as="geometry" />
+          <mxGeometry height="67" width="107" x="-486" y="1733" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-84" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7NlO0MsowyBqrU6M-R0K-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-77" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" value="自定义指令" vertex="1">
-          <mxGeometry height="68" width="400" x="-610" y="1733" as="geometry" />
-        </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-78" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="属性" vertex="1">
-          <mxGeometry height="30" width="120" x="-599" y="1761" as="geometry" />
-        </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-79" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="样式" vertex="1">
-          <mxGeometry height="30" width="120" x="-470" y="1761" as="geometry" />
-        </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-80" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="代码" vertex="1">
-          <mxGeometry height="30" width="120" x="-340" y="1761" as="geometry" />
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-77" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;" value="自定义指令" vertex="1">
+          <mxGeometry height="68" width="150" x="-360" y="1733" as="geometry" />
         </mxCell>
         <mxCell id="7NlO0MsowyBqrU6M-R0K-81" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="节卡代码文件" vertex="1">
           <mxGeometry height="60" width="120" x="-275" y="2178" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-86" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7NlO0MsowyBqrU6M-R0K-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-688" y="1670" />
+              <mxPoint x="-285" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-85" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="程序代码" vertex="1">
+          <mxGeometry height="60" width="120" x="-748" y="1723" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
