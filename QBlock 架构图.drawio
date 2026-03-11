@@ -1443,50 +1443,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外围设备" id="5wWiWReHc5PfujfFuU3R">
-    <mxGraphModel dx="2053" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PD4rw7al6KwJQ-wbAUHo-0" />
         <mxCell id="PD4rw7al6KwJQ-wbAUHo-1" parent="PD4rw7al6KwJQ-wbAUHo-0" />
-        <mxCell id="PD4rw7al6KwJQ-wbAUHo-3" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层（各平台应用）" vertex="1">
-          <mxGeometry height="97" width="221" x="-65" y="32" as="geometry" />
-        </mxCell>
-        <mxCell id="PD4rw7al6KwJQ-wbAUHo-6" parent="PD4rw7al6KwJQ-wbAUHo-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1. 外围设备&amp;amp;机器人关系&lt;/h1&gt;&lt;p&gt;1、外围设备通常指安装在机器人本体（控制器/关节/本体结构）之外，与机器人协同工作但物理上可分离的设备，如夹爪、升降柱、相机。&lt;/p&gt;&lt;p&gt;2、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;机器人&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过 I/O、串口、网线通讯来控制外围设备。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3、外围设备在控制操作之前需要对应的应用进行参数设置，应用 (驱动) 跟外围设备&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px; text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通过 I/O、串口、网线通讯。&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="190" width="414" x="221" y="-211" as="geometry" />
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-0" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="外围设备" vertex="1">
-          <mxGeometry height="121" width="163" x="-14" y="-211" as="geometry" />
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-2" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
-          <mxGeometry height="60" width="120" x="9.5" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-3" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="机器人" vertex="1">
-          <mxGeometry height="130" width="213" x="-402" y="-220" as="geometry" />
-        </mxCell>
-        <mxCell id="PD4rw7al6KwJQ-wbAUHo-2" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Pallas 控制器" vertex="1">
-          <mxGeometry height="75" width="144" x="-367" y="-186" as="geometry" />
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-4" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="PD4rw7al6KwJQ-wbAUHo-2" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rIgEtyHB5_Q_-m9b9tln-0" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="-148" y="-67" as="sourcePoint" />
-            <mxPoint x="-48" y="-167" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-5" connectable="0" parent="rIgEtyHB5_Q_-m9b9tln-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过 I/O、串口、网线通讯&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="0.0228" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-6" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="rIgEtyHB5_Q_-m9b9tln-2" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rIgEtyHB5_Q_-m9b9tln-0" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="-58" y="-65" as="sourcePoint" />
-            <mxPoint x="151" y="-67" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-7" connectable="0" parent="rIgEtyHB5_Q_-m9b9tln-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过 I/O、串口、网线通讯&amp;nbsp;" vertex="1">
-          <mxGeometry relative="1" x="0.0228" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-8" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层&lt;div&gt;(各平台应用)&lt;/div&gt;" vertex="1">
           <mxGeometry height="128" width="555" x="-399" y="423" as="geometry" />
         </mxCell>
@@ -1641,6 +1601,12 @@
         </mxCell>
         <mxCell id="-Gmm-LHjuqbipGvpE8D8-19" parent="PD4rw7al6KwJQ-wbAUHo-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;外围设备&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="-160" y="-1169" as="geometry" />
+        </mxCell>
+        <mxCell id="-Gmm-LHjuqbipGvpE8D8-22" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-800" y="-360" as="sourcePoint" />
+            <mxPoint x="440" y="-360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
