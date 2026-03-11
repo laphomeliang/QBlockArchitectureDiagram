@@ -2015,8 +2015,8 @@
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-12" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
           <mxGeometry height="60" width="320" x="-725" y="-370.5" as="geometry" />
         </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-13" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="&amp;nbsp;节卡 AddOn" vertex="1">
-          <mxGeometry height="80" width="110" x="-481" y="-690" as="geometry" />
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-13" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;节卡 AddOn" vertex="1">
+          <mxGeometry height="130" width="375" x="-735" y="-710" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-16" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
           <mxGeometry height="60" width="120" x="-625" y="-210" as="geometry" />
