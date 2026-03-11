@@ -1448,27 +1448,27 @@
         <mxCell id="PD4rw7al6KwJQ-wbAUHo-0" />
         <mxCell id="PD4rw7al6KwJQ-wbAUHo-1" parent="PD4rw7al6KwJQ-wbAUHo-0" />
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-8" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="应用层&lt;div&gt;(各平台应用)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="128" width="555" x="23" y="272" as="geometry" />
+          <mxGeometry height="128" width="555" x="543" y="282" as="geometry" />
         </mxCell>
-        <mxCell id="rIgEtyHB5_Q_-m9b9tln-9" parent="PD4rw7al6KwJQ-wbAUHo-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 外围设备 &amp;amp; 外围设备应用 (驱动) 关系&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、插件可通过外围设备提供的 SDK 或者固定规则来控制外围设备应用 (驱动)，从而对外围设备进行设置和控制。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、根据外围设备的规则，并结合控制器的开发语言，插件可提供控制外围设备的指令&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="rIgEtyHB5_Q_-m9b9tln-9" parent="PD4rw7al6KwJQ-wbAUHo-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 外围设备 &amp;amp; 外围设备应用 (驱动) 关系&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、外围设备应用（驱动）是外围设备厂家提供的软件，通过物理连接（&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 14px; text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;I/O、串口、网线&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）后，可控制和设置外围设备。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、根据外围设备的规则，并结合控制器的开发语言，插件可提供控制外围设备的指令&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="190" width="393" x="20" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-10" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="外围设备" vertex="1">
-          <mxGeometry height="121" width="163" x="408" y="43" as="geometry" />
+          <mxGeometry height="121" width="163" x="928" y="53" as="geometry" />
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-11" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
-          <mxGeometry height="60" width="120" x="431.5" y="314" as="geometry" />
+          <mxGeometry height="60" width="120" x="951.5" y="324" as="geometry" />
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-12" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="机器人" vertex="1">
-          <mxGeometry height="130" width="213" x="20" y="34" as="geometry" />
+          <mxGeometry height="130" width="213" x="540" y="44" as="geometry" />
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-13" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="Pallas 控制器" vertex="1">
-          <mxGeometry height="75" width="144" x="55" y="68" as="geometry" />
+          <mxGeometry height="75" width="144" x="575" y="78" as="geometry" />
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-14" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="rIgEtyHB5_Q_-m9b9tln-13" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rIgEtyHB5_Q_-m9b9tln-10" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="274" y="187" as="sourcePoint" />
-            <mxPoint x="374" y="87" as="targetPoint" />
+            <mxPoint x="794" y="197" as="sourcePoint" />
+            <mxPoint x="894" y="97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-15" connectable="0" parent="rIgEtyHB5_Q_-m9b9tln-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过 I/O、串口、网线通讯&amp;nbsp;" vertex="1">
@@ -1478,8 +1478,8 @@
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-16" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="rIgEtyHB5_Q_-m9b9tln-11" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="rIgEtyHB5_Q_-m9b9tln-10" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="364" y="189" as="sourcePoint" />
-            <mxPoint x="573" y="187" as="targetPoint" />
+            <mxPoint x="884" y="199" as="sourcePoint" />
+            <mxPoint x="1093" y="197" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIgEtyHB5_Q_-m9b9tln-17" connectable="0" parent="rIgEtyHB5_Q_-m9b9tln-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="通过 I/O、串口、网线通讯&amp;nbsp;" vertex="1">
@@ -1488,12 +1488,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q5YdAeKPP0bnZTa-ndWm-10" parent="PD4rw7al6KwJQ-wbAUHo-1" style="rounded=0;whiteSpace=wrap;html=1;" value="插件" vertex="1">
-          <mxGeometry height="60" width="120" x="66.5" y="313.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="586.5" y="323.5" as="geometry" />
         </mxCell>
         <mxCell id="q5YdAeKPP0bnZTa-ndWm-11" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="q5YdAeKPP0bnZTa-ndWm-10" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rIgEtyHB5_Q_-m9b9tln-11" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="485" y="357" as="sourcePoint" />
-            <mxPoint x="585" y="257" as="targetPoint" />
+            <mxPoint x="1005" y="367" as="sourcePoint" />
+            <mxPoint x="1105" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q5YdAeKPP0bnZTa-ndWm-12" connectable="0" parent="q5YdAeKPP0bnZTa-ndWm-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用外围设备 SDK" vertex="1">
@@ -1503,8 +1503,8 @@
         </mxCell>
         <mxCell id="q5YdAeKPP0bnZTa-ndWm-14" edge="1" parent="PD4rw7al6KwJQ-wbAUHo-1" source="q5YdAeKPP0bnZTa-ndWm-10" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rIgEtyHB5_Q_-m9b9tln-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="120" y="241" as="sourcePoint" />
-            <mxPoint x="170" y="191" as="targetPoint" />
+            <mxPoint x="640" y="251" as="sourcePoint" />
+            <mxPoint x="690" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q5YdAeKPP0bnZTa-ndWm-15" connectable="0" parent="q5YdAeKPP0bnZTa-ndWm-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提供外围设备控制的指令" vertex="1">
@@ -1664,6 +1664,9 @@
         </mxCell>
         <mxCell id="-Gmm-LHjuqbipGvpE8D8-42" parent="PD4rw7al6KwJQ-wbAUHo-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
           <mxGeometry height="60" width="120" x="-295" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-Gmm-LHjuqbipGvpE8D8-45" parent="PD4rw7al6KwJQ-wbAUHo-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 外围设备 &amp;amp; 外围设备应用 (驱动) 关系&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、插件可通过外围设备提供的 SDK 或者固定规则来控制外围设备应用 (驱动)，从而对外围设备进行设置和控制。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2、根据外围设备的规则，并结合控制器的开发语言，插件可提供控制外围设备的指令&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="393" x="543" y="-230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
