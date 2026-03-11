@@ -1655,7 +1655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="节卡 AddOn 插件" id="A1D-ZrNRDuBh8W_6IvjK">
-    <mxGraphModel dx="2564" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3432" dy="2594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="HWiKMLakBleG0e2GBzOH-0" />
         <mxCell id="HWiKMLakBleG0e2GBzOH-1" parent="HWiKMLakBleG0e2GBzOH-0" />
@@ -1697,44 +1697,6 @@
         </mxCell>
         <mxCell id="tnG8QT-j9YB55PpuZaY5-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
           <mxGeometry height="60" width="120" x="-225" y="-965" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-0" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义网页" vertex="1">
-          <mxGeometry height="60" width="120" x="21" y="-370.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
-          <mxGeometry height="60" width="120" x="21" y="-241.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="控制器" vertex="1">
-          <mxGeometry height="196" width="426" x="193" y="-370.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=1;whiteSpace=wrap;html=1;" value="自定义服务" vertex="1">
-          <mxGeometry height="60" width="120" x="206" y="-301.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-4" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="节卡的 API" vertex="1">
-          <mxGeometry height="60" width="120" x="485" y="-301.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-5" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="GijsNv5Zer1ep9HGTLDq-3" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GijsNv5Zer1ep9HGTLDq-4" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="372" y="-187.5" as="sourcePoint" />
-            <mxPoint x="472" y="-287.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-6" connectable="0" parent="GijsNv5Zer1ep9HGTLDq-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="查询、设置、控制" vertex="1">
-          <mxGeometry relative="1" x="-0.0692" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-7" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="GijsNv5Zer1ep9HGTLDq-0" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GijsNv5Zer1ep9HGTLDq-3" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="163" y="-368.5" as="sourcePoint" />
-            <mxPoint x="213" y="-418.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GijsNv5Zer1ep9HGTLDq-8" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="GijsNv5Zer1ep9HGTLDq-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GijsNv5Zer1ep9HGTLDq-3" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="85" y="-404.5" as="sourcePoint" />
-            <mxPoint x="135" y="-454.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="GijsNv5Zer1ep9HGTLDq-9" parent="HWiKMLakBleG0e2GBzOH-1" style="text;html=1;overflow=hidden;rounded=0;whiteSpace=wrap;fontSize=12;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2. 节卡 AddOn 运行机制&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1、节卡 AddOn 插件基础功能：自定义服务、自定义&lt;span style=&quot;background-color: transparent;&quot;&gt;指令&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;、自定义&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;网页&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;。&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;2、自定义服务：&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;基于 node-red 开发，在控制器中运行。当 AddOn 被启动时，控制器启动该 AddOn 的 node-red 进程。自定义服务可以作为中间层，为自定义指令、自定义网页提供服务。通过 node-red 中提供的相关节点，可以查询机器人信息、设置机器人参数、控制机器人运动。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;3、自定义指令：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;属性、编辑页面和脚本，这三部分均在 AddOn 开发工具（node-red）中定义。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;4、自定义网页：&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, STHeiti, &amp;quot;Microsoft YaHei&amp;quot;, SimSun, sans-serif; text-align: justify;&quot;&gt;&lt;font style=&quot;&quot;&gt;通常被部署在节卡控制器上，并通过 Nginx 进行代理。当然，也有可能将其部署在个人计算机或其他设备上。&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="310" width="393" x="21" y="-770" as="geometry" />
@@ -1989,15 +1951,15 @@
           <mxGeometry height="230" width="760" x="-785" y="-770" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="节卡 App 服务" vertex="1">
-          <mxGeometry height="61" width="345" x="-755" y="-481" as="geometry" />
+          <mxGeometry height="61" width="345" x="-755" y="-491" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
           <mxGeometry height="140" width="700" x="-755" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-4" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="节卡 App" vertex="1">
-          <mxGeometry height="180" width="420" x="-755" y="-740" as="geometry" />
+          <mxGeometry height="180" width="545" x="-755" y="-740" as="geometry" />
         </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-7" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="节卡 API" vertex="1">
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-7" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="节卡 API" vertex="1">
           <mxGeometry height="111" width="700" x="-755" y="-401" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-9" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外围设备" vertex="1">
@@ -2006,11 +1968,11 @@
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-10" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
           <mxGeometry height="60" width="120" x="-175" y="-665" as="geometry" />
         </mxCell>
-        <mxCell id="KlnpYmQdv3mOgCHmn20Z-12" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-12" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="API 功能" vertex="1">
           <mxGeometry height="60" width="635" x="-725" y="-370.5" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-13" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&amp;nbsp;节卡 AddOn" vertex="1">
-          <mxGeometry height="130" width="375" x="-735" y="-710" as="geometry" />
+          <mxGeometry height="130" width="495" x="-735" y="-710" as="geometry" />
         </mxCell>
         <mxCell id="KlnpYmQdv3mOgCHmn20Z-16" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="节卡机器人文件" vertex="1">
           <mxGeometry height="60" width="120" x="-465" y="-220" as="geometry" />
@@ -2024,14 +1986,33 @@
             <mxPoint x="441.88232421875" y="-880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义服务" vertex="1">
-          <mxGeometry height="61" width="320" x="-375" y="-481" as="geometry" />
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-6" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="KlnpYmQdv3mOgCHmn20Z-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-215" y="-420" />
+              <mxPoint x="-405" y="-420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义网页" vertex="1">
-          <mxGeometry height="61" width="163" x="-723" y="-665" as="geometry" />
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自定义服务" vertex="1">
+          <mxGeometry height="61" width="320" x="-375" y="-491" as="geometry" />
         </mxCell>
-        <mxCell id="7NlO0MsowyBqrU6M-R0K-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="自定义指令" vertex="1">
-          <mxGeometry height="61" width="169" x="-544" y="-666" as="geometry" />
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-5" edge="1" parent="HWiKMLakBleG0e2GBzOH-1" source="7NlO0MsowyBqrU6M-R0K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="7NlO0MsowyBqrU6M-R0K-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-487" y="-530" />
+              <mxPoint x="-215" y="-530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-4" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="node-red" vertex="1">
+          <mxGeometry height="97.5" width="475" x="-725" y="-687.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自定义网页" vertex="1">
+          <mxGeometry height="61" width="163" x="-674" y="-665" as="geometry" />
+        </mxCell>
+        <mxCell id="7NlO0MsowyBqrU6M-R0K-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="自定义指令" vertex="1">
+          <mxGeometry height="61" width="169" x="-454" y="-665" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
