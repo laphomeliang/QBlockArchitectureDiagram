@@ -1655,7 +1655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="节卡 AddOn 插件" id="A1D-ZrNRDuBh8W_6IvjK">
-    <mxGraphModel dx="2053" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="HWiKMLakBleG0e2GBzOH-0" />
         <mxCell id="HWiKMLakBleG0e2GBzOH-1" parent="HWiKMLakBleG0e2GBzOH-0" />
@@ -1981,6 +1981,60 @@
           <mxGeometry relative="1" x="-0.1324" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-0" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pallas 控制器 (Linux)" vertex="1">
+          <mxGeometry height="401" width="760" x="-785" y="-471" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-1" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="应用层 (Windows/Android)" vertex="1">
+          <mxGeometry height="230" width="760" x="-785" y="-720" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-2" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QBlock 服务" vertex="1">
+          <mxGeometry height="60" width="700" x="-755" y="-431" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-3" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;文件目录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="700" x="-755" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-4" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock App /&amp;nbsp; Google 浏览器" vertex="1">
+          <mxGeometry height="180" width="420" x="-755" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-5" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Card 文件夹" vertex="1">
+          <mxGeometry height="101" width="180" x="-655" y="-191" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-6" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Flash 文件夹" vertex="1">
+          <mxGeometry height="102.75" width="190" x="-335" y="-192.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-7" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="API 进程" vertex="1">
+          <mxGeometry height="111" width="700" x="-755" y="-351" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-8" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="QRL 进程" vertex="1">
+          <mxGeometry height="60" width="296" x="-365" y="-320.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-9" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="外围设备" vertex="1">
+          <mxGeometry height="60" width="120" x="-175" y="-810" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-10" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="外围设备应用 (驱动)" vertex="1">
+          <mxGeometry height="60" width="120" x="-175" y="-615" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-11" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="QBlock 操作交互界面" vertex="1">
+          <mxGeometry height="130" width="400" x="-745" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-12" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;" value="API 功能" vertex="1">
+          <mxGeometry height="60" width="320" x="-725" y="-320.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-13" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QKM+ 组件" vertex="1">
+          <mxGeometry height="80" width="110" x="-475" y="-625" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-14" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QBlock 界面" vertex="1">
+          <mxGeometry height="80" width="110" x="-735" y="-625" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-15" parent="HWiKMLakBleG0e2GBzOH-1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="QDesigner 界面" vertex="1">
+          <mxGeometry height="80" width="110" x="-605" y="-625" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-16" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QBlock 脚本文件" vertex="1">
+          <mxGeometry height="60" width="120" x="-625" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="KlnpYmQdv3mOgCHmn20Z-17" parent="HWiKMLakBleG0e2GBzOH-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="QRL 工程文件" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="-160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
